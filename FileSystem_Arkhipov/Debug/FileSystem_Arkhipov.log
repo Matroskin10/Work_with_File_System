@@ -1,0 +1,4 @@
+﻿  NTFS.cpp
+c:\users\devil\desktop\filesystem_arkhipov1\filesystem_arkhipov\ntfs.cpp(13): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+c:\users\devil\desktop\filesystem_arkhipov1\filesystem_arkhipov\ntfs.cpp(111): warning C4715: Work_with_NTFS::ReadClusters: значение возвращается не при всех путях выполнения
+  FileSystem_Arkhipov.vcxproj -> C:\Users\devil\Desktop\FileSystem_Arkhipov1\Debug\FileSystem_Arkhipov.exe
